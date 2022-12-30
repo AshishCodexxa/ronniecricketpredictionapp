@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "366398506630",
+    "project_id": "ronniecricketprediction",
+    "storage_bucket": "ronniecricketprediction.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366398506630:android:b82bffc78b1f9bb6f9f307",
+        "android_client_info": {
+          "package_name": "com.ronniecricket.predictions"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "366398506630-ptemf31c2s0jf8n1l640b954echjbh68.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ronniecricket.predictions",
+            "certificate_hash": "299ea57d8c70e88c64e3bf89a20ce17c11723c7f"
+          }
+        },
+        {
+          "client_id": "366398506630-thi3n3la30fkn4cetfhqakr2tc4lpft3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1-ZTvxuTl9RxBQfQ721ZW6U5Nnx4JNPo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "366398506630-thi3n3la30fkn4cetfhqakr2tc4lpft3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
